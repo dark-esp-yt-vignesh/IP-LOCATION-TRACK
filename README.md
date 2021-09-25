@@ -8,18 +8,19 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
 </p>
 
 ## How to install IP-Tracer ?
-
-* `apt update`
-
-* `apt install git -y`
-
-* `git clone https://github.com/dark-esp-yt-vignesh/IP-LOCATION-TRACK.git`
-
-* `cd IP-Tracer`
-
-* `chmod +x install`
-
-* `sh install` or `./install`
+1. Install Termux from PlayStore,
+2. Open the Termux App and wait for the installation process,
+3. Enter This Command:
+```
+apt update
+apt upgrade
+apt install git
+git clone https://github.com/dark-esp-yt-vignesh/IP-LOCATION-TRACK.git
+cd IP-Tracer
+chmod +x install
+sh install
+```
+* `./install`
 
 
 ## How to use IP-Tracer
