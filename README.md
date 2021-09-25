@@ -20,6 +20,7 @@ cd IP-Tracer
 chmod +x install
 sh install
 ```
+**Else Run it**
 * `./install`
 
 
