@@ -37,7 +37,7 @@ function upd() {
   sleep(1);
   system("cd ~/ && git clone https://github.com/dark-esp-yt-vignesh/IP-LOCATION-TRACK.git");
   system("cd ~/ && sudo git clone https://github.com/dark-esp-yt-vignesh/IP-LOCATION-TRACK.git");
-  system("cd ~/IP-Tracer && sh install");
+  system("cd ~/IP-LOCATION-TRACKER && bash install");
   logo();
   echo "\n\033[01;32m              IP-LOCATION-TRACK updated !!!\033[01;37m\n";
   sleep(1);
