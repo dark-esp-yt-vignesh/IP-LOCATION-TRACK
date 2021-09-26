@@ -16,7 +16,7 @@ apt update
 apt upgrade
 apt install git
 git clone https://github.com/dark-esp-yt-vignesh/IP-LOCATION-TRACK.git
-cd IP-Tracer
+cd IP-LOCATION-TRACKER
 ls
 chmod +x install
 ls
