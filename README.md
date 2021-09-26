@@ -17,8 +17,10 @@ apt upgrade
 apt install git
 git clone https://github.com/dark-esp-yt-vignesh/IP-LOCATION-TRACK.git
 cd IP-Tracer
+ls
 chmod +x install
-sh install
+ls
+bash install
 ```
 **Else Run it**
 * `./install`
@@ -28,7 +30,7 @@ sh install
 
 * `trace -m` to track your own ip address.
 
-* `trace -t target-ip` to track other's ip address for example `ip-tracer -t 127.0.0.1`
+* `trace -t` Enter target-ip to track other's ip address for example `ip-tracer -t 127.0.0.1`
 
 * `trace` for more information.
 
@@ -36,7 +38,7 @@ sh install
 
 * `ip-tracer -m` to track your own ip address.
 
-* `ip-tracer -t target-ip` to track other's ip address for example `ip-tracer -t 127.0.0.1`
+* `ip-tracer -t` Enter target-ip to track other's ip address for example `ip-tracer -t 127.0.0.1`
 
 * `ip-tracer` for more information.
 
